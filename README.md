@@ -1,12 +1,13 @@
 ### Opa, eu sou o Jadson Pereira 👋
 
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://www.instagram.com/p.jadsonn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
 
-![Jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsow&show_icons=true&theme=radical)
+![Jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsow&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsow&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsow&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo:
 
@@ -26,3 +27,5 @@
     <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="javascript" />
     <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="javascript" />
 </div>
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
