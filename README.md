@@ -1,6 +1,5 @@
 ### Opa, eu sou o Jadson Pereira 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://www.instagram.com/p.jadsonn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
 
 ![Jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsow&show_icons=true&theme=dracula)
