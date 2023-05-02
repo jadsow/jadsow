@@ -35,9 +35,13 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-    <img align="center" src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" alt="next" />
+    <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" />
     <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="javascript" />
 </div>
+    
+    
+
+    
 
 ![Snake animation](https://github.com/jadsow/jadsow/blob/output/github-contribution-grid-snake.svg)
