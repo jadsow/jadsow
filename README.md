@@ -34,6 +34,7 @@
        <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
        <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
    </div>
+   
 ## 📚 O que estou estudando:
 
 <div style="display: inline_block"><br/>
