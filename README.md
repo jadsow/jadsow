@@ -49,5 +49,3 @@
     
 
     
-
-![Snake animation](https://github.com/jadsow/jadsow/blob/output/github-contribution-grid-snake.svg)
