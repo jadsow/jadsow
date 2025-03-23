@@ -38,7 +38,7 @@ https://portfolio-jadson.vercel.app/#/
    <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
    <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />   
    <br/>
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />  
+   <img style="margin-top: 5px;" align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />  
 </div>
 
 
