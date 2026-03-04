@@ -7,14 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://www.instagram.com/p.jadsonn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
 
-### Esse é meu portfólio: 
-https://portfolio-jadson.vercel.app/#/
-
-![Jadson GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsow&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsow&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Tecnologias que trabalho atualmente:
    
