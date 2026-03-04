@@ -66,7 +66,7 @@ Topics I actively study and apply in my projects.
 <img align="center" src="https://img.shields.io/badge/langchain-000000?style=for-the-badge" />
 <img align="center" src="https://img.shields.io/badge/vector--database-000000?style=for-the-badge" />
 
-</div> 
+</div>
 
 ---
 
