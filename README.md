@@ -83,14 +83,6 @@ Technologies I have worked with in applied AI projects:
 
 ---
 
-# 📂 Featured Projects
-
-Some repositories where I explore architecture, system design and modern web development.
-
-*(Pinned repositories)*
-
----
-
 # 💡 What Drives Me
 
 • Building scalable and maintainable systems  
