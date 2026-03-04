@@ -1,63 +1,69 @@
 <div align="center">
 
-### Opa, eu sou o Jadson Pereira 👋
+# Hi, I'm Jadson Pereira 👋
 
+Frontend Engineer with ~4 years of experience building scalable web applications.  
+Focused on **frontend architecture, system design and high-quality user interfaces**.
 
+Currently working mainly with **Angular, Node.js and Docker**, and constantly studying software architecture and distributed systems.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://www.instagram.com/p.jadsonn/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p.jadsonn/)
 
-
-## Tecnologias que trabalho atualmente:
-   
- <div style="display: inline_block"><br/>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />    
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />  
-    <img align="center" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="c#" />
-    <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />    
-</div>
-    
-
-## O que tenho maior interesse:
-<div style="display: inline-block;">
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" />
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="quasar" />
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-   <img style="margin: 5px;" align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />   
-<!--    <img style="margin-top: 5px;" align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />   -->
 </div>
 
+---
 
-## 📚 O que estou estudando:
+# 🚀 Current Stack
 
-<div style="display: inline_block"><br/>   
-<!--    <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> -->
-   <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-   <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-<!--    <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /> -->
-<!--    <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />    -->
-<!--    <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />    -->
-   <img align="center" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="context-api" />   
-   <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />   
-<!--     <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" /> -->
-<!--     <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" /> -->
-<!--    <img align="center" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />   -->
- </div>   
-   
-   
-## Tecnologias que já estudei, entretanto não trabalho atualmente:
 <div style="display: inline_block"><br/>
-   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-   <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" />       
-   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-   <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-   <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-</div>
-    
-    
 
-    
+<img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+Main technologies I use in my daily work.
+
+---
+
+# 🧠 Interests & Study Areas
+
+<div style="display: inline_block"><br/>
+
+<img align="center" src="https://img.shields.io/badge/software--architecture-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/system--design-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/domain--driven--design-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/microservices-000000?style=for-the-badge" />
+
+</div>
+
+Topics I enjoy studying and applying in real projects.
+
+---
+
+# 📚 Currently Learning
+
+<div style="display: inline_block"><br/>
+
+<img align="center" src="https://img.shields.io/badge/clean--architecture-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/system--design-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+</div>
+
+---
+
+# 💡 About Me
+
+- Frontend focused Software Engineer
+- Experience with large enterprise systems
+- Strong interest in **architecture and technical leadership**
+- Passionate about building **maintainable and scalable systems**
+
+---
+
+⭐ Feel free to explore my repositories.
