@@ -29,8 +29,6 @@ Currently focused on **Angular, Node.js and system architecture**, with strong i
 
 </div>
 
-Technologies I use daily to design and build scalable production systems.
-
 ---
 
 # 🏗 Engineering Focus
@@ -59,15 +57,16 @@ Topics I actively study and apply in my projects.
 
 ---
 
-# 🤖 AI & Applied LLMs
+# 🤖 AI & Applied Backend
 
-Technologies I have worked with in applied AI projects:
+<div style="display: inline_block"><br/>
 
-• Retrieval-Augmented Generation (RAG)  
-• LangChain orchestration  
-• Vector databases (ChromaDB)  
-• LLM integration (LLaMA 3)  
-• FastAPI for AI-powered APIs  
+<img align="center" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/langchain-000000?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/vector--database-000000?style=for-the-badge" />
+
+</div> 
 
 ---
 
