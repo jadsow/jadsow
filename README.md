@@ -6,7 +6,7 @@ Frontend Engineer specialized in **enterprise web applications, frontend archite
 
 I have **4+ years of experience building large internal platforms**, defining frontend standards, and leading technical initiatives in teams.
 
-Currently focused on **Angular, Node.js and system architecture**, with strong interest in **AI-integrated systems and backend design with Kotlin**.
+Currently focused on **Angular, Node.js and system architecture**, with strong interest in **AI-integrated systems**.
 
 📍 Brazil | Remote | Open to Relocation
 
