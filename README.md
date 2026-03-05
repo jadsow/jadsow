@@ -74,7 +74,6 @@ Topics I actively study and apply in my projects.
 
 <div style="display: inline_block"><br/>
 
-<img align="center" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/backend--architecture-000000?style=for-the-badge" />
 <img align="center" src="https://img.shields.io/badge/distributed--systems-000000?style=for-the-badge" />
 
