@@ -11,8 +11,10 @@ Currently focused on **Angular, Node.js and system architecture**, with strong i
 📍 Brazil | Remote | Open to Relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-pereira-a64421191/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jadsow)
-[![JP Vision UI](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=vercel)](https://github.com/jadsow](https://jp-vision-ui-platform.vercel.app/)
+
+[![Vision UI Platform](https://img.shields.io/badge/Vision%20UI%20Platform-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jp-vision-ui-platform.vercel.app/)
 
 </div>
 
